@@ -1,0 +1,2 @@
+asdasdasd
+camera func
