@@ -6,6 +6,7 @@ int main()
 
 	//add comment
 	int y = 5;
+	int t = 4;
 	return 0;
 
 }
